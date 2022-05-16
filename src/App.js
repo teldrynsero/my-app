@@ -1,22 +1,17 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>❀ Plushie Shop ❀</h1>
+        <ul>
+        <li>Hover over plushies to see their names and prices</li>
+        <li>Click on plushies to see their full information</li>
+        <li>Click "Add to Cart" under the plushies you want</li>
+        <li>View what's currently in your cart below the plushie selection</li>
+        <li>Click "Check Out" when you have made your desired selections (will refresh page)</li>
+      </ul>
       </header>
     </div>
   );

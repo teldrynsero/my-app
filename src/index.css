@@ -1,13 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Sofia&display=swap');
 
-h1
-{
-    text-align: center;
-    font-family: 'Sofia';
-    font-size: 50px;
-    color: deepskyblue;
-}
-
 #Cart
 {
     font-family: Verdana;
@@ -19,14 +11,14 @@ h1
 {
     font-family: Verdana;
     font-size: 20px;
-    color: deepskyblue;
+    color: darksalmon;
 }
 
 #plush2
 {
     font-family: Verdana;
     font-size: 20px;
-    color: darksalmon;
+    color: deepskyblue;
 }
 
 ul
